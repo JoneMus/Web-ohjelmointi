@@ -1,0 +1,8 @@
+
+.block {
+  display: block;
+  text-align: center;
+  background-color: lightsteelblue;
+  padding: 2em;
+  margin: 5em;
+}
